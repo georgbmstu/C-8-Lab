@@ -1,0 +1,6 @@
+D:\C# Labs\8\AnimalLibrary\bin\Debug\AnimalLibrary.dll
+D:\C# Labs\8\AnimalLibrary\bin\Debug\AnimalLibrary.pdb
+D:\C# Labs\8\AnimalLibrary\obj\Debug\AnimalLibrary.csproj.AssemblyReference.cache
+D:\C# Labs\8\AnimalLibrary\obj\Debug\AnimalLibrary.csproj.CoreCompileInputs.cache
+D:\C# Labs\8\AnimalLibrary\obj\Debug\AnimalLibrary.dll
+D:\C# Labs\8\AnimalLibrary\obj\Debug\AnimalLibrary.pdb

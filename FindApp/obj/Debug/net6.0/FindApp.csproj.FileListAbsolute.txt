@@ -1,0 +1,14 @@
+D:\C# Labs\8\FindApp\bin\Debug\net6.0\FindApp.exe
+D:\C# Labs\8\FindApp\bin\Debug\net6.0\FindApp.deps.json
+D:\C# Labs\8\FindApp\bin\Debug\net6.0\FindApp.runtimeconfig.json
+D:\C# Labs\8\FindApp\bin\Debug\net6.0\FindApp.dll
+D:\C# Labs\8\FindApp\bin\Debug\net6.0\FindApp.pdb
+D:\C# Labs\8\FindApp\obj\Debug\net6.0\FindApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Labs\8\FindApp\obj\Debug\net6.0\FindApp.AssemblyInfoInputs.cache
+D:\C# Labs\8\FindApp\obj\Debug\net6.0\FindApp.AssemblyInfo.cs
+D:\C# Labs\8\FindApp\obj\Debug\net6.0\FindApp.csproj.CoreCompileInputs.cache
+D:\C# Labs\8\FindApp\obj\Debug\net6.0\FindApp.dll
+D:\C# Labs\8\FindApp\obj\Debug\net6.0\refint\FindApp.dll
+D:\C# Labs\8\FindApp\obj\Debug\net6.0\FindApp.pdb
+D:\C# Labs\8\FindApp\obj\Debug\net6.0\FindApp.genruntimeconfig.cache
+D:\C# Labs\8\FindApp\obj\Debug\net6.0\ref\FindApp.dll
